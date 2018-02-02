@@ -127,7 +127,7 @@ Markdown 使用一种和链接很相似的语法来标记图片，同样也允�
 
 ![Alt text][id]
 
-「id」是图片参考的名称，图片参考的定义方式则和连结参考一样：
+「id」是图片参考的名称，图片参考的定义方式则和链接参考一样：
 
 [id]: url/to/image  "Optional title attribute"
 Markdown 支持以下这些符号前面加上反斜杠来帮助插入普通的符号：
